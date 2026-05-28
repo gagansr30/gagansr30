@@ -152,7 +152,6 @@ Bengaluru North University | Apr 2020 – Nov 2023
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gagansr)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gagansr30.github.io)
 
-📞 +44 7990 238113 | 📍 Leeds, UK
 
 </div>
 
