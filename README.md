@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Gagan S R 👋
+# Hi there, I'm Gagan S Ramakrishnappa 👋
 
 ### Full Stack Software Engineer | AI/ML Engineer | MSc Computer Science (AI) — University of Leeds
 
