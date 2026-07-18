@@ -2,15 +2,8 @@
   <style>
     .titlebar-dot { opacity: 0.9; }
     .line {
-      opacity: 0;
-      transform-box: fill-box;
-      transform-origin: left center;
-      animation: typein 0.5s ease-out forwards;
-    }
-    @keyframes typein {
-      0%   { opacity: 0; transform: translateX(-10px); }
-      100% { opacity: 1; transform: translateX(0); }
-    }
+      opacity: 1;
+          }
   </style>
   <rect x="0" y="0" width="490" height="300" rx="10" fill="#0d1117" stroke="#30363d"/>
   <rect x="0" y="0" width="490" height="34" rx="10" fill="#161b22"/>
