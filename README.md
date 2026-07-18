@@ -1,6 +1,7 @@
 <div align="center">
 
-# Hi there, I'm Gagan S R :wave:
+<td valign="top"><img src="./Untitled (6).jpeg" width="370" /></td>
+# Hi there, I'm Gagan Ramakrishnappa :wave:
 
 ### Full Stack Software Engineer | AI/ML Engineer | MSc Computer Science (AI) — University of Leeds
 
