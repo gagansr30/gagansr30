@@ -23,9 +23,12 @@
 
 ### \`gagan@github ~ $ whoami\`
 
-<img src="./info-card.svg" width="490" />
-
-<!-- ascii portrait pending: add avi-style ascii-portrait.svg here once a source photo is provided -->
+<table>
+  <tr>
+    <td valign="top"><img src="./avi-ascii.svg" width="370" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" /></td>
+  </tr>
+</table>
 
 </div>
 
