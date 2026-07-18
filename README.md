@@ -1,6 +1,6 @@
 <div align="center">
 
-<td valign="top"><img src="./Untitled (6).jpeg" width="370" /></td>
+<td valign="top"><img src="./Untitled (6).jpeg" width="800" /></td>
 # Hi there, I'm Gagan Ramakrishnappa :wave:
 
 ### Full Stack Software Engineer | AI/ML Engineer | MSc Computer Science (AI) — University of Leeds
