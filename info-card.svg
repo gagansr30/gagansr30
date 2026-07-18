@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 300" font-family="Consolas, 'Courier New', monospace">
+  <style>
+    .titlebar-dot { opacity: 0.9; }
+    .line {
+      opacity: 0;
+      transform-box: fill-box;
+      transform-origin: left center;
+      animation: typein 0.5s ease-out forwards;
+    }
+    @keyframes typein {
+      0%   { opacity: 0; transform: translateX(-10px); }
+      100% { opacity: 1; transform: translateX(0); }
+    }
+  </style>
+  <rect x="0" y="0" width="490" height="300" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <rect x="0" y="0" width="490" height="34" rx="10" fill="#161b22"/>
+  <rect x="0" y="24" width="490" height="10" fill="#161b22"/>
+  <circle class="titlebar-dot" cx="20" cy="17" r="6" fill="#ff5f56"/>
+  <circle class="titlebar-dot" cx="40" cy="17" r="6" fill="#ffbd2e"/>
+  <circle class="titlebar-dot" cx="60" cy="17" r="6" fill="#27c93f"/>
+  <text x="245" y="21" text-anchor="middle" fill="#8b949e" font-size="12">neofetch</text>
+  <text x="22" y="60" class="line" style="animation-delay:0ms" font-size="13.5"><tspan fill="#7ee787" font-weight="bold">user:</tspan> <tspan fill="#c9d1d9">gagansr30@github</tspan></text>
+  <text x="22" y="88" class="line" style="animation-delay:160ms" font-size="13.5"><tspan fill="#7ee787" font-weight="bold">Role:</tspan> <tspan fill="#c9d1d9">Full Stack Software Engineer / AI-ML Engineer</tspan></text>
+  <text x="22" y="116" class="line" style="animation-delay:320ms" font-size="13.5"><tspan fill="#7ee787" font-weight="bold">Now:</tspan> <tspan fill="#c9d1d9">MSc Advanced Computer Science (AI), University of Leeds</tspan></text>
+  <text x="22" y="144" class="line" style="animation-delay:480ms" font-size="13.5"><tspan fill="#7ee787" font-weight="bold">Prev:</tspan> <tspan fill="#c9d1d9">Vosyn Inc. (ML Engineer Intern, AI) - GAO Tek Inc. (SWE Intern)</tspan></text>
+  <text x="22" y="172" class="line" style="animation-delay:640ms" font-size="13.5"><tspan fill="#7ee787" font-weight="bold">Stack:</tspan> <tspan fill="#c9d1d9">Python, FastAPI, React/TS, RAG/LLMs, PyTorch, Vertex AI, Docker/K8s, AWS/Azure/GCP</tspan></text>
+  <text x="22" y="200" class="line" style="animation-delay:800ms" font-size="13.5"><tspan fill="#7ee787" font-weight="bold">Highlights:</tspan> <tspan fill="#c9d1d9">Shipped AI CV Tailoring Tool end-to-end (Claude API, Stripe billing, &lt;20s ATS export)</tspan></text>
+  <text x="22" y="228" class="line" style="animation-delay:960ms" font-size="13.5"><tspan fill="#c9d1d9">WeatherDiffuse research: snow-scene SSIM improved 0.39 -&gt; 0.73</tspan></text>
+  <text x="22" y="256" class="line" style="animation-delay:1120ms" font-size="13.5"><tspan fill="#c9d1d9">Vosyn RAG reliability: +15% test coverage, 8+ bugs found &amp; documented</tspan></text>
+</svg>
