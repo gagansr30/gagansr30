@@ -22,8 +22,6 @@
 
 <br><br>
 
-### \`gagan@github ~ $ whoami\`
-
 <table>
   <tr>
     <td valign="top"><img src="./avi-ascii.svg" width="370" /></td>
@@ -127,9 +125,6 @@ Full Stack Software Engineer and AI/ML Engineer with **2+ years of professional 
 | **[AI CV Tailoring Tool](https://cv-tailor-olive.vercel.app/)** | Full-stack Generative AI app integrating the Claude API under a strict no-fabrication constraint, with a tiered Supabase/Stripe subscription model and ATS-aligned DOCX/PDF export in under 20s | Claude API, Supabase, Stripe |
 | **InciExtract** | AI pipeline converting unstructured incident reports into structured JSON using zero-shot detection and LLM summarization | Python, FastAPI, LLMs |
 | **[WeatherDiffuse](https://huggingface.co/spaces/gagansr30/Rainy_Snowy_Fog_Image_Generator)** | 3-stage generative diffusion pipeline (InstructPix2Pix, physics-based augmentation via Beer-Lambert law & MiDaS v3) synthesising photorealistic fog/rain/snow imagery for the nuScenes autonomous-driving dataset; improved snow-scene SSIM from 0.39 to 0.73 | Python, PyTorch, OpenCV |
-| **[FaceAttend](https://github.com/gagansr30/Face-Recognition-and-Attendance-Software)** | Real-time face recognition attendance system for up to 50 people, integrated with MySQL | Python, OpenCV, MySQL |
-| **[PharmaSys](https://github.com/gagansr30/Pharmacy-Management-System)** | Pharmacy management system with inventory, sales, prescriptions, and automated reporting | VB 6.0, SQL Server |
-| **Android Attendance App** | Android app to digitalise student attendance with real-time Firebase backend and intuitive UX | Java, Firebase, Android |
 
 ---
 
