@@ -5,15 +5,8 @@
     .legend-label { fill: #8b949e; font-size: 10px; }
     .footer { fill: #c9d1d9; font-size: 12px; }
     .cell {
-      opacity: 0;
-      transform-box: fill-box;
-      transform-origin: center;
-      animation: reveal 0.5s ease-out forwards;
-    }
-    @keyframes reveal {
-      0%   { opacity: 0; transform: translate(-6px, -10px); }
-      100% { opacity: 1; transform: translate(0, 0); }
-    }
+      opacity: 1;
+          }
   </style>
   <rect x="0" y="0" width="832" height="180" fill="#0d1117"/>
   <text x="30" y="16" class="mlabel">Jul</text><text x="75" y="16" class="mlabel">Aug</text><text x="150" y="16" class="mlabel">Sep</text><text x="210" y="16" class="mlabel">Oct</text><text x="270" y="16" class="mlabel">Nov</text><text x="345" y="16" class="mlabel">Dec</text><text x="405" y="16" class="mlabel">Jan</text><text x="465" y="16" class="mlabel">Feb</text><text x="525" y="16" class="mlabel">Mar</text><text x="600" y="16" class="mlabel">Apr</text><text x="660" y="16" class="mlabel">May</text><text x="735" y="16" class="mlabel">Jun</text><text x="795" y="16" class="mlabel">Jul</text>
