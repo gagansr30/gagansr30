@@ -60,6 +60,7 @@ Software Engineer with an **MSc in Advanced Computer Science (AI)** from the Uni
 ![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Google Vertex AI]()
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 
 
 ### :toolbox: Frameworks and Libraries
