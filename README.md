@@ -15,8 +15,6 @@
 
 <div align="center">
 
-<br><br>
-
 ### `gagan@github ~ $ who am i`
 
 <table>
