@@ -106,17 +106,6 @@ Software Engineer with an **MSc in Advanced Computer Science (AI)** from the Uni
 - Converted a Java codebase to **Flutter and Dart** across 8 modules for a real-time tracking and monitoring system, improving cross-platform delivery and maintainability
 - Led a global team of **20+ interns** through Agile/Scrum sprints, coordinating tasks and delivery via Microsoft Teams
 
----
-
-### :globe_with_meridians: Software Developer — Freelance
-**Mar 2022 – Aug 2023 | Bangalore, India**
-
-- Built and managed **5+ responsive websites** for small business clients using WordPress and JavaScript
-- Improved UIs and customised website themes, increasing average user engagement by **20%** across projects
-- Achieved a **95% client satisfaction rate** by delivering tailored solutions aligned with client needs
-
----
-
 ## :dart: Featured Projects
 
 | Project | Description | Tech Stack |
