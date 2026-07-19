@@ -15,13 +15,9 @@
 
 <div align="center">
 
-### `gagan@github ~ $ ./contributions.sh`
-
-<img src="./contrib-heatmap.svg" width="860" />
-
 <br><br>
 
-### `gagan@github ~ $ whoami`
+### `gagan@github ~ $ who am i`
 
 <table>
   <tr>
