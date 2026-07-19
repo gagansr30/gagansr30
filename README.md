@@ -42,7 +42,7 @@ Software Engineer with an **MSc in Advanced Computer Science (AI)** from the Uni
 - :seedling: Growing focus on Generative AI, Diffusion Models, and Large Language Models
 - :sparkles: Shipped an **AI CV Tailoring Tool** end-to-end — Claude API, Supabase/Stripe billing, ATS-aligned DOCX/PDF export in under 20s
 - :briefcase: Open to full-time Software Engineering and AI/ML Engineer roles
-- :round_pushpin: Based in Leeds, UK — open to remote/hybrid opportunities
+- :round_pushpin: Based in Leeds, UK — open to reloecate and  remote/hybrid opportunities
 
 ---
 
