@@ -58,7 +58,7 @@ Software Engineer with an **MSc in Advanced Computer Science (AI)** from the Uni
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat-square&logo=databricks&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Google Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Google Vertex AI](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 ### :toolbox: Frameworks and Libraries
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
