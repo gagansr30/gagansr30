@@ -19,7 +19,6 @@
   <text x="22" y="156" class="line" font-size="13.5"><tspan fill="#7ee787" font-weight="bold">Contact:</tspan> <tspan fill="#c9d1d9">gagansruk@gmail.com</tspan></text>
   <text x="22" y="182" class="line" font-size="13.5"><tspan fill="#7ee787" font-weight="bold">Summary:</tspan> <tspan fill="#c9d1d9">Full-stack engineer shipping RAG/LLM apps</tspan></text>
   <text x="86" y="200" class="line" font-size="13.5"><tspan fill="#c9d1d9">end-to-end, from API to auth to billing</tspan></text>
-  <text x="22" y="226" class="line" font-size="13.5"><tspan fill="#7ee787" font-weight="bold">Stack:</tspan> <tspan fill="#c9d1d9">Python, FastAPI, React/TS, RAG/LLMs, PyTorch,</tspan></text>
   <text x="65" y="244" class="line" font-size="13.5"><tspan fill="#c9d1d9">Vertex AI, Docker/K8s, AWS/Azure/GCP</tspan></text>
   <text x="22" y="270" class="line" font-size="13.5"><tspan fill="#7ee787" font-weight="bold">Highlights:</tspan> <tspan fill="#c9d1d9">Shipped AI CV Tailoring Tool end-to-end</tspan></text>
   <text x="102" y="288" class="line" font-size="13.5"><tspan fill="#c9d1d9">(Claude API, Stripe billing, &lt;20s export)</tspan></text>
