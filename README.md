@@ -2,7 +2,7 @@
 
 # Hi there, I'm Gagan S R :wave:
 
-### Full Stack Software Engineer | AI/ML Engineer | MSc Computer Science (AI) — University of Leeds
+### Software Engineer | Applied AI/ML | MSc Computer Science (AI) — University of Leeds
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-gagansr.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gagansr30.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gagansr)
@@ -15,13 +15,13 @@
 
 <div align="center">
 
-### \`gagan@github ~ $ ./contributions.sh\`
+### `gagan@github ~ $ ./contributions.sh`
 
 <img src="./contrib-heatmap.svg" width="860" />
 
 <br><br>
 
-### \`gagan@github ~ $ whoami\`
+### `gagan@github ~ $ whoami`
 
 <table>
   <tr>
@@ -36,10 +36,10 @@
 
 ## :rocket: About Me
 
-Full Stack Software Engineer and AI/ML Engineer with **2+ years of professional experience** designing, developing, and deploying secure, scalable, and high-performance applications, now pursuing an **MSc in Advanced Computer Science (AI)** at the University of Leeds. I've supported reliability engineering on an enterprise FastAPI-based **RAG/LLM chat system** at Vosyn Inc. (Google Vertex AI, Gemini 2.0 Flash, Cloud SQL Postgres), and independently designed, built, and shipped a full-stack AI product end-to-end — from Claude API integration to authentication, subscription billing, and document generation — going beyond research prototypes into production.
+Software Engineer with an **MSc in Advanced Computer Science (AI)** from the University of Leeds, with experience across backend systems, REST APIs, and full-stack development. I led a global team of 20+ developers through a Java-to-Flutter conversion at GAO Tek Inc., and independently designed, built, and shipped a full-stack **AI-powered CV tailoring web app** end-to-end — covering authentication, subscription billing, and document generation. I bring growing hands-on experience with RAG and LLM pipelines from my time at Vosyn Inc., and I'm looking to bring strong engineering fundamentals plus applied AI exposure to a team building production software at scale.
 
 - :telescope: Currently working on AI/ML pipelines, RAG systems, and LLM-powered applications
-- :seedling: Specialising in Generative AI, Diffusion Models, and Large Language Models
+- :seedling: Growing focus on Generative AI, Diffusion Models, and Large Language Models
 - :sparkles: Shipped an **AI CV Tailoring Tool** end-to-end — Claude API, Supabase/Stripe billing, ATS-aligned DOCX/PDF export in under 20s
 - :briefcase: Open to full-time Software Engineering and AI/ML Engineer roles
 - :round_pushpin: Based in Leeds, UK — open to remote/hybrid opportunities
@@ -62,12 +62,13 @@ Full Stack Software Engineer and AI/ML Engineer with **2+ years of professional 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat-square&logo=databricks&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Google Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 ### :toolbox: Frameworks and Libraries
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -85,25 +86,22 @@ Full Stack Software Engineer and AI/ML Engineer with **2+ years of professional 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ---
 
 ## :briefcase: Professional Experience
 
-### :brain: Machine Learning Engineer (AI) Intern — Vosyn Inc.
-**Nov 2025 – Jan 2026 | Leeds, UK (Remote)**
+### :computer: Software Engineer (AI) — Vosyn Inc.
+**Nov 2025 – Jan 2026 | Ontario, Canada (Remote) — Master's-level Intern**
 
-- Supported reliability engineering for an enterprise FastAPI-based RAG/LLM chat system (Google Vertex AI, Gemini 2.0 Flash, Cloud SQL Postgres, n8n), building scalable backend services and RESTful API endpoints for core product features
-- Wrote unit tests that increased test coverage by approximately **15%**, and helped connect RAG pipelines to vector databases, improving real-time AI response accuracy
-- Reviewed pipeline outputs and identified **8+ bugs** with detailed reproduction steps, helping the team resolve production issues faster
-- Streamlined the go-live process for 3 new Generative AI models in production, improving system reliability by approximately **20%** through code refactoring
+- Supported the reliability of an enterprise FastAPI-based Retrieval-Augmented Generation (RAG) chat system (Google Vertex AI, Gemini 2.0 Flash, Cloud SQL Postgres, n8n) by writing unit tests, increasing test coverage by around **15%**
+- Reviewed pipeline outputs and identified **8+ bugs** with detailed reproduction steps, helping the team resolve issues faster
 
 ---
 
 ### :computer: Software Developer Intern — GAO Tek Inc.
-**Apr 2023 – Jun 2023 | Bangalore, India**
+**Apr 2023 – Jun 2023 | NYC, USA (Remote)**
 
 - Converted a Java codebase to **Flutter and Dart** across 8 modules for a real-time tracking and monitoring system, improving cross-platform delivery and maintainability
 - Led a global team of **20+ interns** through Agile/Scrum sprints, coordinating tasks and delivery via Microsoft Teams
@@ -123,9 +121,9 @@ Full Stack Software Engineer and AI/ML Engineer with **2+ years of professional 
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[AI CV Tailoring Tool](https://cv-tailor-olive.vercel.app/)** | Full-stack Generative AI app integrating the Claude API under a strict no-fabrication constraint, with a tiered Supabase/Stripe subscription model and ATS-aligned DOCX/PDF export in under 20s | Claude API, Supabase, Stripe |
-| **InciExtract** | AI pipeline converting unstructured incident reports into structured JSON using zero-shot detection and LLM summarization | Python, FastAPI, LLMs |
+| **[AI CV Tailoring Tool](https://cv-tailor-olive.vercel.app/)** | Full-stack CV tailoring web app integrating the Claude API under a strict no-fabrication constraint, with a tiered Supabase/Stripe subscription model and ATS-aligned DOCX/PDF export in under 20s | Claude API, Supabase, Stripe |
 | **[WeatherDiffuse](https://huggingface.co/spaces/gagansr30/Rainy_Snowy_Fog_Image_Generator)** | 3-stage generative diffusion pipeline (InstructPix2Pix, physics-based augmentation via Beer-Lambert law & MiDaS v3) synthesising photorealistic fog/rain/snow imagery for the nuScenes autonomous-driving dataset; improved snow-scene SSIM from 0.39 to 0.73 | Python, PyTorch, OpenCV |
+| **InciExtract** | Pipeline converting unstructured incident reports into structured JSON using zero-shot detection and LLM summarisation | Python, FastAPI, LLMs |
 | **[FaceAttend](https://github.com/gagansr30/Face-Recognition-and-Attendance-Software)** | Real-time face recognition attendance system for up to 50 people, integrated with MySQL | Python, OpenCV, MySQL |
 | **[PharmaSys](https://github.com/gagansr30/Pharmacy-Management-System)** | Pharmacy management system with inventory, sales, prescriptions, and automated reporting | VB 6.0, SQL Server |
 | **Android Attendance App** | Android app to digitalise student attendance with real-time Firebase backend and intuitive UX | Java, Firebase, Android |
@@ -136,7 +134,8 @@ Full Stack Software Engineer and AI/ML Engineer with **2+ years of professional 
 
 :school: **MSc Advanced Computer Science (Artificial Intelligence) — 2.1**
 University of Leeds | Sept 2024 – Nov 2025
-> Relevant: Machine Learning, Deep Learning, Data Science, Advanced Software Engineering, Knowledge Representation, Bio-Inspired Computing, Algorithms
+> Modules: Machine Learning, Deep Learning, Data Science, Advanced Software Engineering, Knowledge Representation, Data Structures & Algorithms
+> Research-based project: Generative Diffusion Model based environmental image synthesis
 
 :school: **BCA: Computer Science — Distinction**
 Bengaluru North University | Apr 2020 – Nov 2023
@@ -148,12 +147,17 @@ Bengaluru North University | Apr 2020 – Nov 2023
 
 | Certification | Issuer | Year |
 |--------------|--------|------|
-| Agile Software Development | University of Minnesota | 2025 |
-| Cloud Computing (3.2 CPE Credits – NSBA Approved) | LinkedIn Learning | 2025 |
-| CS50 Computer Science | Harvard University | 2024 |
-| Software Engineering (Virtual Experience) | Goldman Sachs | 2023 |
-| Advanced Software Engineering (Virtual Experience) | Walmart Global Tech | 2023 |
-| Software Engineering Job Simulation | Skyscanner | 2023 |
+| Agile Software Development | University of Minnesota (Coursera) | 2025 |
+| CS50: Introduction to Computer Science | Harvard University (edX) | 2024 |
+| Software Engineering (Virtual Experience) | Goldman Sachs (Forage) | 2023 |
+| Advanced Software Engineering (Virtual Experience) | Walmart Global Tech (Forage) | 2023 |
+| Software Engineering Job Simulation | Skyscanner (Forage) | 2023 |
+
+---
+
+## :speech_balloon: Languages
+
+English, Kannada, Telugu, Hindi
 
 ---
 
